@@ -11,7 +11,7 @@ Project title:
 -Snake Island by GameTopia
 
 Project page: 
--[[https://github.com/mjmankgane/gametopia2024](https://github.com/mjmankgane/Snake-GameTopia)](https://github.com/mjmankgane/Snake-GameTopia)
+-https://github.com/mjmankgane/Snake-GameTopia
 
 Instructions for use (allowable actions): 
 -Start by downloading the SnakeApplication.zip file and extract it to save the SnakeApplication folder on your computer. 
